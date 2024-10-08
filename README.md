@@ -8,3 +8,5 @@ The number of asteroids increases as you progress with the score and sometimes m
 
 As stated before, i don't have much programming skills so don't be surprised if there are useless things, loops or variables. Also that's why i joined the community, to find help and ways to improve.
 Feel free to play, that's obvious.
+One last thing: variable names are a mix of italian and english. Because i'm italian and when i started i didn't really plan to update the code here.
+Thanks
